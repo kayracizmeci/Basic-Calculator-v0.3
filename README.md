@@ -10,7 +10,6 @@ A simple console-based calculator written in Python.
 
 ## How to Run
 1. Make sure you have Python installed.
-2. Run the script:
-   ```bash
-   python basic_calculator_v0.3.py
+2. Run the script
+ 
    
