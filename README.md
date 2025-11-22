@@ -12,5 +12,5 @@ A simple console-based calculator written in Python.
 1. Make sure you have Python installed.
 2. Run the script:
    ```bash
-   python basic_calculator_v0_3.py
+   python basic_calculator_v0.3.py
    
